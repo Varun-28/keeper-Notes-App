@@ -1,2 +1,3 @@
 # keeper-Notes-App
-Created with CodeSandbox
+A ReactJS App in which we can add, read and delete our notes as per need.
+Deployed using Netlify 
